@@ -1,0 +1,6 @@
+{
+  "name": "HISTOCARPROBE",
+  "description": "Instrumen Asesmen Diagnostik Kognitif Berbasis Karikatur Sejarah untuk Siswa SMA/Mahasiswa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
